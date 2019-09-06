@@ -1,0 +1,19 @@
+{
+  "name": "ts-learning",
+  "version": "1.0.0",
+  "description": "a repo for learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrumanGu/ts-learning.git"
+  },
+  "author": "TrumanGu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrumanGu/ts-learning/issues"
+  },
+  "homepage": "https://github.com/TrumanGu/ts-learning#readme"
+}
